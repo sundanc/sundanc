@@ -20,7 +20,7 @@ Hi there! I'm a freshman exploring the world of **Data Science** and **Machine L
 - [**Movie Recommendation**](https://github.com/sundanc/movierecommendation): A simple movie recommender built with Streamlit (Python).  
 - [**Bitcoin Prediction**](https://github.com/sundanc/btcprediction): Machine learning model predicting Bitcoin prices (Python).  
 - [**ChatBotAI**](https://github.com/sundanc/chatbotai): Discord chatbot with integrated Wiki AI (Python).  
-- [**House Finder**](https://github.com/sundanc/housefinder): A web app for finding houses based on preferences (Python).  
+- [**Best House Finder**](https://github.com/sundanc/besthousefinder): A web app for finding houses based on preferences (Python).  
 
 ---
 
