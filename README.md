@@ -1,7 +1,7 @@
 
 # 👋 Welcome to Sundance's GitHub!
 
-Hi there! I'm a freshman exploring the world of **Data Science** and **Machine Learning**.
+Hi there! I'm exploring the world of **Data Science** and **Machine Learning**.
 
 ---
 
