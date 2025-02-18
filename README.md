@@ -1,24 +1,44 @@
+# Hey, I'm Sundance! 🌞
 
-# 👋 Welcome to Sundance's GitHub!
-
-Hi there! I'm exploring the world of **Data Science** and **Machine Learning**.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Programming Languages**: Python, JavaScript, C  
-- **Libraries/Frameworks**: Pandas, NumPy, scikit-learn, Matplotlib, Streamlit, discord.js & discord.py
-- **Other Skills**: API Integration, Web App Development  
-
----
-## 🚀 Goals
-
-- Specialize in **Machine Learning** and contribute to impactful projects.  
-- Keep exploring innovative solutions to real-world problems.  
+Welcome to my GitHub profile! I'm all about coding, automating, and making life easier with scripts and machine learning. If it's open-source, efficient, and solves a problem—I'm into it. 🚀
 
 ---
 
-## 📫 Contact Me
+## 📂 My Repositories
 
-- Email: [sundancegithub@gmail.com](mailto:sundancegithub@gmail.com)  
+### 🖥️ Linux & DevOps
+- [Bash CheatSheet](https://github.com/sundanc/bashcheatsheet) - Essential Bash commands for everyday use. 🖥️💡
+- [Git Intro](https://github.com/sundanc/git_intro) - A beginner-friendly guide to Git and GitHub commands. 🔧📂
+
+### 📈 Machine Learning & Data Science
+- [Fraud Detection](https://github.com/sundanc/frauddetection) - Detecting fraudulent transactions using ML and ensemble methods. 🕵️‍♂️💰
+- [BTC Prediction](https://github.com/sundanc/btcprediction) - Predicting Bitcoin prices using ML models. 📉📊
+- [Weather Prediction](https://github.com/sundanc/weatherprediction) - ML-based weather forecasting. ☀️🌧️
+- [Movie Recommendation](https://github.com/sundanc/movierecommendation) - Recommending movies using ML and Streamlit. 🎬🤖
+- [Best House Finder](https://github.com/sundanc/besthousefinder) - A house hunting tool powered by ML. 🏡📊
+
+### 💰 Finance & Analysis
+- [Finance App](https://github.com/sundanc/finance) - A Streamlit-based financial analysis app. 📊💸
+
+### 🤖 Bots & Automation
+- [Social Notifier](https://github.com/sundanc/social-notifier) - A TypeScript-based notification bot. 🔔
+- [Urban Dictionary Bot](https://github.com/sundanc/urbandictionary) - Discord bot for fetching Urban Dictionary terms. 💬🤓
+- [Chatbot AI](https://github.com/sundanc/chatbotai) - AI-powered chatbot for Discord. 🤖💬
+- [Ban-Kick-Mute](https://github.com/sundanc/ban-kick-mute-unmute) - Moderation bot for Discord servers. 🔨
+
+### 🎮 Fun & Mini Projects
+- [Rock Paper Scissors](https://github.com/sundanc/rockpaperscissors) - Classic RPS game in Python. ✊✋✌️
+- [Dice Simulator](https://github.com/sundanc/dicesimulator) - Virtual dice roller. 🎲
+- [Number Guessing](https://github.com/sundanc/numberguessing) - Guess the number game. 🔢🤔
+- [Hangman](https://github.com/sundanc/hangman) - Classic hangman game. 🕵️‍♀️
+- [PyTube](https://github.com/sundanc/pytube) - YouTube MP4 downloader in Python. 🎥📥
+
+---
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, TypeScript, Bash
+- **Frameworks & Libraries:** Scikit-learn, Pandas, NumPy, Streamlit, Discord.js
+- **Tools:** Git, Docker, GitHub Actions, Jupyter Notebook
+- **Cloud & Deployment:** AWS, Heroku, Netlify
+
+📌 Always tinkering, always learning. Hit me up if you wanna collab sundancegithub@gmail.com ! 🤝🔥
