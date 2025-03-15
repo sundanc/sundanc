@@ -7,31 +7,32 @@ Welcome to my GitHub profile! I'm all about coding, automating, and making life 
 ## 📂 My Repositories
 
 ### 🖥️ Linux & DevOps
-- [Bash CheatSheet](https://github.com/sundanc/bashcheatsheet) - Essential Bash commands for everyday use. 🖥️💡
-- [Git Intro](https://github.com/sundanc/git_intro) - A beginner-friendly guide to Git and GitHub commands. 🔧📂
+- [Bash CheatSheet](https://github.com/sundanc/bashcheatsheet) - Essential Bash commands for everyday use. 
+- [Git Intro](https://github.com/sundanc/git_intro) - A beginner-friendly guide to Git and GitHub commands. 
+- [Auto Scripts](https://github.com/sundanc/auto_scripts) - A collection of useful automation scripts. 
 
 ### 📈 Machine Learning & Data Science
-- [Fraud Detection](https://github.com/sundanc/frauddetection) - Detecting fraudulent transactions using ML and ensemble methods. 🕵️‍♂️💰
-- [BTC Prediction](https://github.com/sundanc/btcprediction) - Predicting Bitcoin prices using ML models. 📉📊
-- [Weather Prediction](https://github.com/sundanc/weatherprediction) - ML-based weather forecasting. ☀️🌧️
-- [Movie Recommendation](https://github.com/sundanc/movierecommendation) - Recommending movies using ML and Streamlit. 🎬🤖
-- [Best House Finder](https://github.com/sundanc/besthousefinder) - A house hunting tool powered by ML. 🏡📊
+- [Fraud Detection](https://github.com/sundanc/frauddetection) - Detecting fraudulent transactions using ML and ensemble methods. 
+- [BTC Prediction](https://github.com/sundanc/btcprediction) - Predicting Bitcoin prices using ML models. 
+- [Weather Prediction](https://github.com/sundanc/weatherprediction) - ML-based weather forecasting. 
+- [Movie Recommendation](https://github.com/sundanc/movierecommendation) - Recommending movies using ML and Streamlit. 
+- [Best House Finder](https://github.com/sundanc/besthousefinder) - A house hunting tool powered by ML. 
 
 ### 💰 Finance & Analysis
-- [Finance App](https://github.com/sundanc/finance) - A Streamlit-based financial analysis app. 📊💸
+- [Finance App](https://github.com/sundanc/finance) - A Streamlit-based financial analysis app.
 
 ### 🤖 Bots & Automation
-- [Social Notifier](https://github.com/sundanc/social-notifier) - A TypeScript-based notification bot. 🔔
-- [Urban Dictionary Bot](https://github.com/sundanc/urbandictionary) - Discord bot for fetching Urban Dictionary terms. 💬🤓
-- [Chatbot AI](https://github.com/sundanc/chatbotai) - AI-powered chatbot for Discord. 🤖💬
-- [Ban-Kick-Mute](https://github.com/sundanc/ban-kick-mute-unmute) - Moderation bot for Discord servers. 🔨
+- [Social Notifier](https://github.com/sundanc/social-notifier) - A TypeScript-based notification bot. 
+- [Urban Dictionary Bot](https://github.com/sundanc/urbandictionary) - Discord bot for fetching Urban Dictionary terms. 
+- [Chatbot AI](https://github.com/sundanc/chatbotai) - AI-powered chatbot for Discord. 
+- [Ban-Kick-Mute](https://github.com/sundanc/ban-kick-mute-unmute) - Moderation bot for Discord servers. 
 
 ### 🎮 Fun & Mini Projects
-- [Rock Paper Scissors](https://github.com/sundanc/rockpaperscissors) - Classic RPS game in Python. ✊✋✌️
-- [Dice Simulator](https://github.com/sundanc/dicesimulator) - Virtual dice roller. 🎲
-- [Number Guessing](https://github.com/sundanc/numberguessing) - Guess the number game. 🔢🤔
-- [Hangman](https://github.com/sundanc/hangman) - Classic hangman game. 🕵️‍♀️
-- [PyTube](https://github.com/sundanc/pytube) - YouTube MP4 downloader in Python. 🎥📥
+- [Rock Paper Scissors](https://github.com/sundanc/rockpaperscissors) - Classic RPS game in Python. 
+- [Dice Simulator](https://github.com/sundanc/dicesimulator) - Virtual dice roller. 
+- [Number Guessing](https://github.com/sundanc/numberguessing) - Guess the number game. 
+- [Hangman](https://github.com/sundanc/hangman) - Classic hangman game. 
+- [PyTube](https://github.com/sundanc/pytube) - YouTube MP4 downloader in Python.
 
 ---
 
