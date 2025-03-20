@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm all about coding, automating, and making life 
 
 ## 📂 My Repositories
 
-### 🖥️ Linux & DevOps
+### 🖥️ Linux & DevOps & Backend
+- [E-Commerce Backend API](https://github.com/sundanc/e-commerce-backend) - A robust, scalable, and secure RESTful API for e-commerce applications. Built with FastAPI, SQLAlchemy, PostgreSQL, and Docker. 
 - [Bash CheatSheet](https://github.com/sundanc/bashcheatsheet) - Essential Bash commands for everyday use. 
 - [Git Intro](https://github.com/sundanc/git_intro) - A beginner-friendly guide to Git and GitHub commands. 
 - [Auto Scripts](https://github.com/sundanc/auto_scripts) - A collection of useful automation scripts. 
