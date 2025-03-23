@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm all about coding, automating, and making life 
 - [E-Commerce Backend API](https://github.com/sundanc/e-commerce-backend) - A robust, scalable, and secure RESTful API for e-commerce applications. Built with FastAPI, SQLAlchemy, PostgreSQL, and Docker. 
 - [Bash CheatSheet](https://github.com/sundanc/bashcheatsheet) - Essential Bash commands for everyday use. 
 - [Git Intro](https://github.com/sundanc/git_intro) - A beginner-friendly guide to Git and GitHub commands. 
-- [Auto Scripts](https://github.com/sundanc/auto_scripts) - A collection of useful automation scripts. 
+- [Auto Scripts](https://github.com/sundanc/auto_scripts) - A collection of useful automation scripts unified under a single script, **arsenal.sh**.
 
 ### 📈 Machine Learning & Data Science
 - [Fraud Detection](https://github.com/sundanc/frauddetection) - Detecting fraudulent transactions using ML and ensemble methods. 
