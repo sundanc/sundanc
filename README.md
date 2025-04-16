@@ -28,13 +28,6 @@ Welcome to my GitHub profile! I'm all about coding, automating, and making life 
 - [Chatbot AI](https://github.com/sundanc/chatbotai) - AI-powered chatbot for Discord. 
 - [Ban-Kick-Mute](https://github.com/sundanc/ban-kick-mute-unmute) - Moderation bot for Discord servers. 
 
-### 🎮 Fun & Mini Projects
-- [Rock Paper Scissors](https://github.com/sundanc/rockpaperscissors) - Classic RPS game in Python. 
-- [Dice Simulator](https://github.com/sundanc/dicesimulator) - Virtual dice roller. 
-- [Number Guessing](https://github.com/sundanc/numberguessing) - Guess the number game. 
-- [Hangman](https://github.com/sundanc/hangman) - Classic hangman game. 
-- [PyTube](https://github.com/sundanc/pytube) - YouTube MP4 downloader in Python.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
